@@ -1,0 +1,8 @@
+Task 3: Connect Jenkins with GitHub
+
+1. Created a GitHub repository named jenkins-github-demo.
+2. Created a Jenkins Freestyle project named GitHub-Pull-Demo.
+3. Configured Jenkins to pull code from GitHub.
+4. Added Windows batch commands to verify the workspace files.
+5. Triggered a manual build using Build Now.
+6. Verified Console Output: Finished: SUCCESS.
